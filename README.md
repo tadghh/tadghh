@@ -10,7 +10,8 @@ I have been learning to code since grade 10. I am now starting my third term of 
 *   ✉️  You can contact me at [thenry2@academic.rrc.ca](mailto:thenry2@academic.rrc.ca)
 *   🧠  I'm learning HTML, CSS, JS, C#, SQL
 *   🤝  I'm open to collaborating on anything you can think of
-*   ⚡  I love automation!<a href="https://www.github.com/tadghh" target="_blank" rel="noreferrer"><img
+*   ⚡  I love automation!
+<a href="https://www.github.com/tadghh" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
