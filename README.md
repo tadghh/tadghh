@@ -1,4 +1,4 @@
-Hi 👋 My name is Tadgh Henry
+Hi 👋 My name is Tadgh
 ============================
 
 Business IT student at Red River College Polytechnic
