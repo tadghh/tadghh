@@ -1,4 +1,5 @@
-Hi 👋 My name is Tadgh
+Hi 👋 My name is Tadgh <img align="right"
+                  src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ============================
 
 Business IT student at Red River College Polytechnic
@@ -12,11 +13,8 @@ I have been learning to code since grade 10. I am now starting my third term of 
 *   🤝  I'm open to collaborating on anything you can think of
 *   ⚡  I love automation!
 
-<a href="https://www.github.com/tadghh" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align=center>
-  ### Skills
-</p>
+<h2 align="center"> Skills </h2>
+
 
 
 <p align="center">
@@ -35,10 +33,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 
 <p align="left"> <a href="https://www.github.com/tadghh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p align="center">
   <h2 align="center">My GitHub Stats</h2>
-
-</p>
 
 
 <a href="http://www.github.com/tadghh"><img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tadghh's GitHub stats" /></a>
