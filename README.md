@@ -36,7 +36,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 ### Badges
 
 <b>My GitHub Stats</b>
-<div>
+
   <table>
     <tbody>
       <tr>
@@ -53,7 +53,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
     
   </table>
   
-  </div>
+
 
 
 
