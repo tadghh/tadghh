@@ -40,12 +40,12 @@ I have been learning to code since grade 10. I am now starting my third term of 
 <tbody>
 <tr>
 <td width=50%>
-<a href="http://www.github.com/tadghh"><img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tadghh's GitHub stats" />
+<a href="http://www.github.com/tadghh"><img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=FFFFFF00&hide_border=true&show_icons=true" alt="tadghh's GitHub stats" />
 </a>
 </td>
 <td>
   <a href="http://www.github.com/tadghh">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="tadghh's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00" alt="tadghh's GitHub stats" />
 </td>
 </tr>
 </tbody>
