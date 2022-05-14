@@ -4,7 +4,7 @@ Hi 👋 My name is Tadgh
 Business IT student at Red River College Polytechnic
 ----------------------------------------------------
 
-I have been learning to code since grade 10. I am now starting my third term of the RRC BIT program at RRCP.
+I have been learning to code since grade 10. I am now starting my third term of the BIT program at RRCP.
 
 *   🌍  I'm based in Winnipeg, Manitoba
 *   ✉️  You can contact me at [thenry2@academic.rrc.ca](mailto:thenry2@academic.rrc.ca)
@@ -14,10 +14,12 @@ I have been learning to code since grade 10. I am now starting my third term of 
 
 <a href="https://www.github.com/tadghh" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                 
-### Skills
+<p align=center>
+  ### Skills
+</p>
 
-<p align="left">
+
+<p align="center">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -33,14 +35,10 @@ I have been learning to code since grade 10. I am now starting my third term of 
 
 <p align="left"> <a href="https://www.github.com/tadghh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-
-
 <p align="center">
   <b>My GitHub Stats</b>
 </p>
-
+----------------------------------------------------
 <a href="http://www.github.com/tadghh"><img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tadghh's GitHub stats" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
