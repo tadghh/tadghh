@@ -44,6 +44,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 </a>
 </td>
 <td>
+  <a href="http://www.github.com/tadghh">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="tadghh's GitHub stats" />
 </td>
 </tr>
