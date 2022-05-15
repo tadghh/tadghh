@@ -50,7 +50,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro"/>
 		</a>
 	</p>
-	<table>
+<table>
 		<tbody>
 			<tr>
 				<td width=50%>
@@ -60,7 +60,11 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			</td>
 			<td>
 				<a href="http://www.github.com/tadghh">
-					<img src="https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF00" alt="tadghh's GitHub stats"/>
+				<span>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</span>
 				</td>
 			</tr>
 		</tbody>
