@@ -50,7 +50,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro"/>
 		</a>
 	</p>
-<table>
+<table bgcolor="#000000">
 		<tbody>
 			<tr>
 				<td width=50%>
