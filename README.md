@@ -1,11 +1,12 @@
 <div style="text-align: center;">
 <a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
     <span>
-        This is some text in a div element!
+        Hi 👋 My name is Tadgh
     </span>
 <img align="right" src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </div>
-============================
+----------------------------------------------------
+
 
 Business IT student at Red River College Polytechnic
 ----------------------------------------------------
