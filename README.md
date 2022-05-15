@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> Hi 👋 My name is Tadgh <img align="right" src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer"><img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> <p align="center">Hi 👋 My name is Tadgh </p> <img align="right" src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ============================
 
 Business IT student at Red River College Polytechnic
