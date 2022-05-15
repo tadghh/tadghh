@@ -55,15 +55,14 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			<tr>
 				<td width=50%>
 				<a href="http://www.github.com/tadghh">
-					<img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000&icon_color=0891b2&bg_color=FFFFFF00&hide_border=true&show_icons=true" alt="tadghh's GitHub stats"/>
+					<img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=FFCC66&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="tadghh's GitHub stats"/>
 				</a>
 			</td>
 			<td>
 <span>
 <a href="http://www.github.com/tadghh">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD00" alt="tadghh's GitHub stats"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tadghh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=FFCC66&sideNums=FFCC66&background=000000&ring=FFCC66&currStreakNum=FFCC66&currStreakLabel=FFCC66&border=FFCC66&fire=DD2727&sideLabels=00FFFF&dates=00FFFF" alt="tadghh's GitHub stats"/>
 </span>
 		</td>
 			</tr>
