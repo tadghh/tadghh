@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer">
-		<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20"/>
+		<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/>
 	</a>
 	<h2 >
         Hi 👋 My name is Tadgh
