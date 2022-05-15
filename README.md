@@ -55,7 +55,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			<tr>
 				<td width=50%>
 				<a href="http://www.github.com/tadghh">
-					<img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=FFCC66&icon_color=#00FFFF&bg_color=000000&hide_border=true&show_icons=true" alt="tadghh's GitHub stats"/>
+					<img src="https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=FFCC66&icon_color=00FFFF&bg_color=000000&hide_border=true&show_icons=true" alt="tadghh's GitHub stats"/>
 				</a>
 			</td>
 			<td>
