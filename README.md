@@ -1,4 +1,5 @@
-Hi 👋 My name is Tadgh <img align="right"
+<a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ Hi 👋 My name is Tadgh <img align="right"
                   src="https://img.shields.io/github/followers/tadghh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ============================
 
@@ -29,13 +30,6 @@ I have been learning to code since grade 10. I am now starting my third term of 
                                 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
                     </p>
                     
-### Socials
-
-<p align="left"> <a href="https://www.github.com/tadghh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-  <h2 align="center">My GitHub Stats</h2>
-
-
 <table>
 <tbody>
 <tr>
