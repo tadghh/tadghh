@@ -60,7 +60,6 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			</td>
 			<td>
 <span>
-<a href="http://www.github.com/tadghh">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&currStreakNum=FFCC66&stroke=FFCC66&sideNums=FFCC66&ring=FFCC66&currStreakLabel=FFCC66&sideLabels=00FFFF&dates=00FFFF)](https://git.io/streak-stats)
 </span>
