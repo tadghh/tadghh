@@ -56,13 +56,13 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			<td width=50%>
 				<span>
 				
-				![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=FFCC66&icon_color=00FFFF&bg_color=000000&hide_border=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=FFCC66&icon_color=00FFFF&bg_color=000000&hide_border=true&show_icons=true)
 				</span>
 			</td>
 			<td>
 				<span>
 			
-				![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&currStreakNum=FFCC66&stroke=FFCC66&sideNums=FFCC66&ring=FFCC66&currStreakLabel=FFCC66&sideLabels=00FFFF&dates=00FFFF)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&currStreakNum=FFCC66&stroke=FFCC66&sideNums=FFCC66&ring=FFCC66&currStreakLabel=FFCC66&sideLabels=00FFFF&dates=00FFFF)
 				</span>
 			</td>
 		</tr>
