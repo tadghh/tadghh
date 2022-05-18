@@ -50,26 +50,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 			<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro"/>
 		</a>
 	</p>
-<table bgcolor="#000000">
-	<tbody>
-		<tr>
-			<td width=50%>
-				<span>
-				
-<p></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadghh&show_icons=true&hide=&count_private=true&title_color=00FFFF&text_color=FFCC66&icon_color=00FFFF&bg_color=000000&hide_border=true&show_icons=true)
-				</span>
-			</td>
-			<td width=50%>
-				<span>
-			
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&currStreakNum=FFCC66&stroke=FFCC66&sideNums=FFCC66&ring=FFCC66&currStreakLabel=FFCC66&sideLabels=00FFFF&dates=00FFFF)
-				</span>
-			</td>
-		</tr>
-	</tbody>
-</table>
 <div align="center">
 	<a href="https://github.com/tadghh">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadghh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
