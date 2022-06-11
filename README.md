@@ -56,5 +56,5 @@ I have been learning to code since grade 10. I am now starting my third term of 
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadghh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
 	</a>
 	
-	<a href="">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=radical)](https://git.io/streak-stats)
+	<a href="">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=radical)](https://git.io/streak-stats)
 </div>
