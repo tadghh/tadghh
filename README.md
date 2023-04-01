@@ -16,7 +16,7 @@ I have been learning to code since grade 10. I am now starting my third term of 
 
 *   🌍  I'm based in Winnipeg, Manitoba
 *   ✉️  You can contact me at [thenry2@academic.rrc.ca](mailto:thenry2@academic.rrc.ca)
-*   🧠  I'm learning HTML, CSS, JS, C#, SQL
+*   🧠  I'm learning NextJS, Rust, Tauri
 *   🤝  I'm open to collaborating on anything you can think of
 *   ⚡  I love automation!
 
