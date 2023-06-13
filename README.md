@@ -8,7 +8,7 @@
 </div>
 
 <span align="center">
-Currently in my final year of the Business Information Tech program at Red River College. I'm always looking to work on projects and help others learn. My goal is to develop guides and tools that younger programmers can understand and utilize to help them grow their skills.
+Currently in my final year of the Business Information Tech program at Red River College. My goal is to live a life of learning, while also helping others. My journey in the tech sector started in Grade 6 where I was creating Bash scripts to open all the programs on my friends computers at school. In the area of Information Technology my experience is focused on hardware and software development, while producing clean and performant solutions. I try to make accesible guides and tools that novice programmers can understand and utilize to help them grow their skills.
 </span>
 
 <h2 align="center"> Skills </h2>
