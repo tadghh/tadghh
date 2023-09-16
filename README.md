@@ -9,7 +9,7 @@
 
 
 <span align="center">
-Currently in my final year of the Business Information Tech program at Red River College. My goal is to live a life of learning, helping others along the way. Focused on software development, producing clean and performant solutions.
+Currently in my final year of the Business Information Tech program at Red River College. Aiming to live a life of learning, helping others along the way. Focused on software development, producing clean and performant solutions.
 </span>
 
 <h2 >Skills</h2>
