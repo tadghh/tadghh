@@ -3,5 +3,5 @@
 
 |<!-- -->    | <!-- -->   |
 | ------------- | ------------- |
-| <a href="https://github.com/tadghh"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadghh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/></a>  | <a href="https://github.com/tadghh"><img align="center" height=200  src="https://github-readme-streak-stats.herokuapp.com?user=tadghh&theme=radical" alt="Git Activity"/></a> |
+| <a href="https://github.com/tadghh"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadghh&theme=swift&hide_border=true&border_radius=6&include_all_commits=true&type=png&count_private=true&layout=compact" alt="Top Languages"/></a>  | <a href="https://github.com/tadghh"><img align="center" height=200  src="https://streak-stats.demolab.com?user=tadghh&theme=swift&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&type=png&hide_longest_streak=true" alt="Git Activity"/></a> 
 </div>
