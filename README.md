@@ -1,4 +1,4 @@
-<div align="center"><a href="https://tadgh.dev" target="_blank" rel="next"><img alt="Tadghs current project" align="left" src="https://img.shields.io/badge/Tadgh%20Henry-881185?style=for-the-badge&logo=none&logoColor=white"></a><a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="alternate"><img alt="Tadghs linkedin" align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div><h1></h1><p align="center">Passionate in linkedin headline | SRE SVE PCP BIT PVC XQC NMP LMNOP TAGS TAGS TAGS TAGS!!.</p>
+<div align="center"><a href="https://tadgh.dev" target="_blank" rel="next"><img alt="Tadghs current project" align="left" src="https://img.shields.io/badge/Tadgh%20Henry-881185?style=for-the-badge&logo=none&logoColor=white"></a><a href="https://www.linkedin.com/in/tadghh" target="_blank" rel="alternate"><img alt="Tadghs linkedin" align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></div><h1></h1><p align="center">Building!</p>
 <div align="center">
 
 |<!-- -->    | <!-- -->   |
